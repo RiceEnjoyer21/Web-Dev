@@ -1,0 +1,120 @@
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: cornsilk;
+  margin: 0;
+  padding: 0;
+}
+
+section.results {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+}
+
+.product {
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 550px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.product img {
+  width: 90%; 
+  height: 400px;
+  object-fit: contain;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-left: 25px;
+}
+
+.product h3 {
+  font-size: 1.25rem;
+  color: rgb(9, 131, 237);
+  margin: 15px 15px 10px;
+  text-align: center;
+}
+
+.product p {
+  font-size: 0.7rem;
+  color: rgb(2, 97, 180);
+  margin: 15px 100px;
+  text-align: center;
+  height: 60px;
+  overflow: auto;
+}
+
+.product p.rating {
+  font-size: 1rem;
+  color: #c77801;
+  font-weight: bold;
+}
+
+.product a {
+  display: inline-block;
+  margin: 10px 20px;
+  padding: 10px 10px;
+  background-color: rgb(9, 131, 237);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.product a:hover {
+  background-color: white;
+}
+.share {
+  background-color: #fff;
+  gap: 10px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  margin-top: 10px;
+}
+.share a {
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  background-color: #fff;
+  transition: transform 0.3s ease;
+  margin-right: 40px;
+  margin-bottom: 30px;
+}
+.share img{
+  width: 30px;
+  height: 30px;
+  transition: transform 0.3s ease;
+}
+
+#l{
+  flex-direction: row;
+  margin-left: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

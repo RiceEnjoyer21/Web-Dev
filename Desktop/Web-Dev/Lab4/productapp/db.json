@@ -1,0 +1,72 @@
+[
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/hc1/h65/83559848181790.png?format=gallery-medium",
+      "name": "iPhone 15 Pro Max",
+      "description": "Latest Apple smartphone with A17 Pro chip.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-15-pro-max-256gb-seryi-113138420/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/h02/ha0/85135950823454.jpg?format=gallery-medium",
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "Flagship Samsung smartphone with S Pen.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/samsung-galaxy-s24-ultra-5g-12-gb-256-gb-titanium-114362728/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/h95/h0e/63900160901150.jpg?format=gallery-medium",
+      "name": "MacBook Air M2",
+      "description": "Lightweight laptop with Apple M2 chip.",
+      "rating": 4.7,
+      "link": "https://kaspi.kz/shop/p/apple-macbook-air-13-mly33-chernyi-105933768/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/h81/h5d/64383949242462.jpg?format=gallery-medium",
+      "name": "Sony WH-1000XM5",
+      "description": "Noise-cancelling wireless headphones.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/sony-wh-1000xm5-chernyi-105787607/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/h32/h70/84940364054558.jpg?format=gallery-medium",
+      "name": "Dyson V15 Detect",
+      "description": "Cordless vacuum cleaner with laser dust detection.",
+      "rating": 4.6,
+      "link": "https://kaspi.kz/shop/p/dyson-v15-detect-absolute-114970522/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/hd8/h2b/64344048762910.jpg?format=gallery-medium",
+      "name": "Apple Watch Series 9",
+      "description": "Smartwatch with advanced health features.",
+      "rating": 4.7,
+      "link": "https://kaspi.kz/shop/p/apple-watch-series-9-45-mm-aluminum-chernyi-113398437/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/h39/h47/64082959810590.jpg?format=gallery-medium",
+      "name": "Samsung 65QN90B",
+      "description": "4K QLED Smart TV with Neo Quantum Processor.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/samsung-65qn90b-165-sm-chernyi-105906596/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/h21/h47/63943757299742.jpg?format=gallery-medium",
+      "name": "Xiaomi Robot Vacuum Mop 2 Pro",
+      "description": "Smart robot vacuum and mop with laser navigation.",
+      "rating": 4.5,
+      "link": "https://kaspi.kz/shop/p/xiaomi-robot-vacuum-mop-2-pro-belyi-106173971/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/hd9/h2b/63803837038622.jpg?format=gallery-medium",
+      "name": "Canon EOS R6",
+      "description": "Mirrorless camera with 20.1MP full-frame sensor.",
+      "rating": 4.7,
+      "link": "https://kaspi.kz/shop/p/canon-eos-r6-body-102498940/?c=750000000"
+    },
+    {
+      "image": "https://resources.cdn-kaspi.kz/img/m/p/hd9/h2b/63803837038622.jpg?format=gallery-medium",
+      "name": "PlayStation 5",
+      "description": "Next-gen gaming console with ultra-high-speed SSD.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/sony-playstation-5-107674130/?c=750000000"
+    }
+  ]
