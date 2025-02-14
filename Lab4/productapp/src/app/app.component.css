@@ -1,0 +1,26 @@
+:host {
+  --content-padding: 10px;
+}
+
+header {
+  display: block;
+  height: 40px;
+  padding: 50px;;
+  background-color: red;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  margin-bottom:10px;
+}
+
+.content {
+  padding: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  flex-direction: row;
+}
