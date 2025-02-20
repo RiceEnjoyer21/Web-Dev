@@ -1,0 +1,15 @@
+<div class="header">
+    <header class="brandname"><img src="/header.png" alt="logot">
+        <h1></h1>
+    </header>
+</div>
+<div class="content">
+    <ul>
+        <li *ngFor="let category of categories">
+            <button (click)="selectCategory(category)">{{ category.name }}</button>
+        </li>
+    </ul>
+</div>
+<hr>
+
+<app-product-list *ngIf="selectedCategory" [products]="selectedCategory.products"></app-product-list>
