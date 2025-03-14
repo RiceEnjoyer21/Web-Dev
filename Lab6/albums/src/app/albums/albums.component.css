@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: rgb(148, 255, 148);
+    font-size: 2em;
+    margin-top: 100px;
+}
+.album-item {
+    list-style-type: none; 
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .delete-btn {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    color: white;
+    border: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .delete-btn:hover {
+    background: red;
+  }
+  
